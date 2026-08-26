@@ -1,16 +1,46 @@
 {
-  "MK_Hunting": {
-    "version": "1.0.0",
-    "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
-  },
-  "MK_Wash": {
+  "MK_BlizzardStorm": {
     "version": "1.0.0",
     "download": "https://discord.gg/tonlien",
     "message": "Version actuelle"
   },
   "MK_GoldPanning": {
     "version": "1.0.0",
+    "download": "https://discord.gg/tonlien",
+    "message": "Version actuelle"
+  },
+  "MK_Handcuff": {
+    "version": "1.0.0",
+    "download": "https://discord.gg/tonlien",
+    "message": "Version actuelle"
+  },
+  "MK_Hunting": {
+    "version": "1.0.0",
+    "download": "https://discord.gg/tonlien",
+    "message": "Version actuelle"
+  },
+  "MK_LoadingScreen": {
+    "version": "1.0.0",
+    "download": "https://discord.gg/tonlien",
+    "message": "Version actuelle"
+  },
+  "MK_RailwayCompany": {
+    "version": "1.0.0",
+    "download": "https://discord.gg/tonlien",
+    "message": "Version actuelle"
+  },
+  "MK_Scavenge": {
+    "version": "1.0.0",
+    "download": "https://discord.gg/tonlien",
+    "message": "Version actuelle"
+  },
+  "MK_Sickness": {
+    "version": "1.0.1",
+    "download": "https://discord.gg/tonlien",
+    "message": "Version actuelle"
+  },
+  "MK_Wash": {
+    "version": "1.1.0",
     "download": "https://discord.gg/tonlien",
     "message": "Version actuelle"
   }
