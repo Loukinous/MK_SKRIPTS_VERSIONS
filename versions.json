@@ -2,46 +2,46 @@
   "MK_BlizzardStorm": {
     "version": "1.0.0",
     "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "message": "Nouvelle mise a jour disponible"
   },
   "MK_GoldPanning": {
     "version": "1.0.1",
     "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "message": "Nouvelle mise a jour disponible"
   },
   "MK_Handcuff": {
     "version": "1.0.0",
-    "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "download": "https://mr-kofte-mapping.tebex.io/package/6891711",
+    "message": "Nouvelle mise a jour disponible"
   },
   "MK_Hunting": {
     "version": "1.0.0",
     "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "message": "Nouvelle mise a jour disponible"
   },
   "MK_LoadingScreen": {
     "version": "1.0.0",
     "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "message": "Nouvelle mise a jour disponible"
   },
   "MK_RailwayCompany": {
     "version": "1.0.0",
     "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "message": "Nouvelle mise a jour disponible"
   },
   "MK_Scavenge": {
     "version": "1.0.0",
-    "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "download": "https://mr-kofte-mapping.tebex.io/package/7635863",
+    "message": "Nouvelle mise a jour disponible"
   },
   "MK_Sickness": {
     "version": "1.0.1",
     "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "message": "Nouvelle mise a jour disponible"
   },
   "MK_Wash": {
     "version": "1.1.0",
     "download": "https://discord.gg/tonlien",
-    "message": "Version actuelle"
+    "message": "https://mr-kofte-mapping.tebex.io/package/7635900"
   }
 }
