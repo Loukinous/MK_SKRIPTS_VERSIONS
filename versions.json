@@ -40,8 +40,8 @@
     "message": "Nouvelle mise a jour disponible"
   },
   "MK_Wash": {
-    "version": "1.1",
+    "version": "1.2",
     "download": "https://mr-kofte-mapping.tebex.io/package/7635900",
-    "message": "MAJ:\n•Prompt caché si le joueur n'est pas accroupi dans l'eau\n•Détection de l'eau et zone pour se laver les mains et le visage"
+    "message": "MAJ:\n• FIX de la détection des abreuvoirs quand le joueur est proche et accroupi"
   }
 }
