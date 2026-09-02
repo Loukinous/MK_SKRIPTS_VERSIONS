@@ -21,8 +21,8 @@
   },
   "MK_LoadingScreen": {
     "version": "1.2",
-    "download": "https://discord.gg/tonlien",
-    "message": "Nouvelle mise a jour disponible"
+    "download": "https://mr-kofte-mapping.tebex.io/package/7650286",
+    "message": "PATCH: Configuration disponible directement dans le fichier config.js"
   },
   "MK_RailwayCompany": {
     "version": "1.0.0",
