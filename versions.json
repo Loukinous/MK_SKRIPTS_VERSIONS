@@ -4,6 +4,11 @@
     "download": "https://discord.gg/tonlien",
     "message": "Nouvelle mise a jour disponible"
   },
+  "MK_Lumberjack": {
+  "version": "0.1",
+  "download": "TON_LIEN_TEBEX_OU_DISCORD",
+  "message": "Première version"
+}
   "MK_Telegrams": {
     "version": "0.1",
     "download": "https://mr-kofte-mapping.tebex.io/package/7661582",
