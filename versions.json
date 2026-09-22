@@ -4,6 +4,16 @@
     "download": "https://discord.gg/tonlien",
     "message": "Nouvelle mise a jour disponible"
   },
+  "MK_ElectricLantern": {
+  "version": "1.0.0",
+  "download": "https://ton-lien-de-telechargement",
+  "message": "Version initiale"
+},
+  "MK_POLICE": {
+  "version": "0.1.0",
+  "download": "https://ton-lien-de-telechargement",
+  "message": "Version actuelle"
+},  
   "MK_Lumberjack": {
   "version": "0.1",
   "download": "TON_LIEN_TEBEX_OU_DISCORD",
