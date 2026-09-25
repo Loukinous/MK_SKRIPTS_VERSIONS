@@ -77,6 +77,6 @@
   "MK_Wash": {
     "version": "1.3.0",
     "download": "https://mr-kofte-mapping.tebex.io/package/7635900",
-    "message": "MAJ:\n• FIX de la détection des abreuvoirs quand le joueur est proche et accroupi"
+    "message": "V1.3.0 : propreté persistante, objets d'hygiène, qualité de l'eau et bains payants"
   }
 }
