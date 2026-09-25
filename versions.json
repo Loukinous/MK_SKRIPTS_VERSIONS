@@ -1,4 +1,9 @@
 {
+  "MK_CemeterySecrets": {
+    "version": "1.0.0",
+    "download": "https://mr-kofte-mapping.tebex.io",
+    "message": "Version initiale de MK CemeterySecrets"
+  },
   "MK_BlizzardStorm": {
     "version": "1.0.0",
     "download": "https://discord.gg/tonlien",
