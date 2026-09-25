@@ -45,7 +45,7 @@
     "message": "Nouvelle mise a jour disponible"
   },
   "MK_BoatShop": {
-    "version": "1.2",
+    "version": "1.3.0",
     "download": "https://mr-kofte-mapping.tebex.io/package/7652701",
     "message": "Ajout d'un coffre de rangement et permissions pour propriétaire bâteau & joueurs !"
   },
