@@ -18,7 +18,12 @@
   "version": "0.1.0",
   "download": "https://ton-lien-de-telechargement",
   "message": "Version actuelle"
-},  
+},
+  "MK_Rumors": {
+  "version": "1.1",
+  "message": "Initial release",
+  "download": "https://mr-kofte-mapping.tebex.io/"
+},
   "MK_Lumberjack": {
   "version": "0.1",
   "download": "TON_LIEN_TEBEX_OU_DISCORD",
