@@ -80,8 +80,8 @@
     "message": "Correctif oxmysql/OAL : les requêtes d'initialisation de la table d'hygiène envoient désormais un tableau de paramètres valide, supprimant l'erreur 'Argument at index 1 was null'."
   },
   "MK_ScreenshotCamera": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "download": "https://mr-kofte-mapping.tebex.io",
-    "message": "La commande de la caméra libre est désormais /mkcam."
+    "message": "Le mode AdminOnly vérifie désormais directement le groupe VORP admin : aucune permission ACE ou ligne add_ace n'est nécessaire."
   }
 }
