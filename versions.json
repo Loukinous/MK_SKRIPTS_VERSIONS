@@ -80,8 +80,8 @@
     "message": "MAJ 1.8.0 : hygiène persistante, savon corrigé, notifications fiabilisées, pluie nettoyante et bains complets (prix affiché, baignoire réservée, animation stable, vêtements retirés/restaurés, sortie avec G). La caméra de screenshots est désormais dans MK_ScreenshotCamera."
   },
   "MK_ScreenshotCamera": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "download": "https://mr-kofte-mapping.tebex.io",
-    "message": "Version initiale : caméra libre dédiée aux captures d'écran."
+    "message": "Ajout du mode AdminOnly configurable : true pour réserver la caméra aux administrateurs ACE, false pour l'ouvrir à tous les joueurs."
   }
 }
