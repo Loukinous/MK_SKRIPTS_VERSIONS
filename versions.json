@@ -75,9 +75,9 @@
     "message": "Nouvelle mise a jour disponible"
   },
   "MK_Wash": {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "download": "https://mr-kofte-mapping.tebex.io/package/7635900",
-    "message": "MAJ 1.8.0 : hygiène persistante, savon corrigé, notifications fiabilisées, pluie nettoyante et bains complets (prix affiché, baignoire réservée, animation stable, vêtements retirés/restaurés, sortie avec G). La caméra de screenshots est désormais dans MK_ScreenshotCamera."
+    "message": "Correctif oxmysql/OAL : les requêtes d'initialisation de la table d'hygiène envoient désormais un tableau de paramètres valide, supprimant l'erreur 'Argument at index 1 was null'."
   },
   "MK_ScreenshotCamera": {
     "version": "1.0.2",
