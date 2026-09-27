@@ -78,5 +78,10 @@
     "version": "1.8.0",
     "download": "https://mr-kofte-mapping.tebex.io/package/7635900",
     "message": "MAJ 1.8.0 : hygiène persistante, savon corrigé, notifications fiabilisées, pluie nettoyante et bains complets (prix affiché, baignoire réservée, animation stable, vêtements retirés/restaurés, sortie avec G). La caméra de screenshots est désormais dans MK_ScreenshotCamera."
+  },
+  "MK_ScreenshotCamera": {
+    "version": "1.0.0",
+    "download": "https://mr-kofte-mapping.tebex.io",
+    "message": "Version initiale : caméra libre dédiée aux captures d'écran."
   }
 }
