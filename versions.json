@@ -75,9 +75,9 @@
     "message": "Nouvelle mise a jour disponible"
   },
   "MK_Wash": {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "download": "https://mr-kofte-mapping.tebex.io/package/7635900",
-    "message": "Correctif oxmysql/OAL : les requêtes d'initialisation de la table d'hygiène envoient désormais un tableau de paramètres valide, supprimant l'erreur 'Argument at index 1 was null'."
+    "message": "Correctif de connexion : la source du joueur est désormais conservée avant les requêtes asynchrones, supprimant l'erreur TriggerClientEvent 'Argument at index 1 was null' après le choix du personnage."
   },
   "MK_ScreenshotCamera": {
     "version": "1.0.3",
