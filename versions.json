@@ -80,8 +80,8 @@
     "message": "Correctif de connexion : la source du joueur est désormais conservée avant les requêtes asynchrones, supprimant l'erreur TriggerClientEvent 'Argument at index 1 was null' après le choix du personnage."
   },
   "MK_ScreenshotCamera": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "download": "https://mr-kofte-mapping.tebex.io",
-    "message": "Le mode AdminOnly vérifie désormais directement le groupe VORP admin : aucune permission ACE ou ligne add_ace n'est nécessaire."
+    "message": "Ressource préparée pour Cfx Asset Escrow : la configuration et le guide restent modifiables, tandis que le code client et serveur est protégé à l'upload."
   }
 }
