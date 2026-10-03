@@ -90,9 +90,9 @@
     "message": "Correctif de connexion : la source du joueur est désormais conservée avant les requêtes asynchrones, supprimant l'erreur TriggerClientEvent 'Argument at index 1 was null' après le choix du personnage."
   },
   "MK_ScreenshotCamera": {
-    "version": "1.0.4",
+    "version": "1.5",
     "download": "https://mr-kofte-mapping.tebex.io",
-    "message": "Ressource préparée pour Cfx Asset Escrow : la configuration et le guide restent modifiables, tandis que le code client et serveur est protégé à l'upload."
+    "message": "Nouveau dossier une fois le script décompressé - confort"
   },
   "MK_NativeCamp": {
     "version": "1.6",
