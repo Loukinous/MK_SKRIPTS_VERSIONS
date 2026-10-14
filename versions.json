@@ -4,6 +4,11 @@
     "download": "https://mr-kofte-mapping.tebex.io",
     "message": "Version initiale de MK CemeterySecrets"
   },
+  "MK_VORPInventoryTheme": {
+  "version": "1.1.0",
+  "download": "https://mr-kofte-mapping.tebex.io",
+  "message": "Version initiale de MK VORP Inventory Theme"
+},
   "MK_CoinFlip": {
   "version": "1.0.0",
   "download": "https://mr-kofte-mapping.tebex.io",
