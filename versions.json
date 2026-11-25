@@ -90,9 +90,9 @@
     "message": "Nouvelle mise a jour disponible"
   },
   "MK_Scavenge": {
-    "version": "1.0.0",
+    "version": "1.1.1",
     "download": "https://mr-kofte-mapping.tebex.io/package/7635863",
-    "message": "Nouvelle mise a jour disponible"
+    "message": "Optimisation de la détection, correction des caisses, sacs et tonneaux, fouille de proximité rétablie et validation des poubelles corrigée. Compatible VORP standard, sans modifier les autres scripts."
   },
   "MK_Sickness": {
     "version": "1.0.1",
