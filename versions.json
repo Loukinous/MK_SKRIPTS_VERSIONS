@@ -8,7 +8,13 @@
   "version": "1.1.0",
   "download": "https://mr-kofte-mapping.tebex.io",
   "message": "Ajout des langues FR, EN, DE, IT et ES et du controle de version serveur."
-},
+  },
+  "MK_SupplyLedger": {
+    "version": "1.0.0",
+    "download": "https://mr-kofte-mapping.tebex.io",
+    "message": "Version initiale de MK Supply Ledger"
+  },
+  
   "MK_Moonshine": {
     "version": "0.24.4",
     "download": "https://mr-kofte-mapping.tebex.io",
